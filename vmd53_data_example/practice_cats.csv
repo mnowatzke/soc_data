@@ -1,0 +1,9 @@
+﻿mgmt_prac,prac_name,prac_cat,prac_sub_cat
+mp,mold_plow,tillage,ct
+cp,chisel_plow,tillage,ct
+dr,deep_rip,tillage,ct
+dh,disk_harrow,tillage,ct
+st,strip_till,tillage,rt
+rt,ridge_till,tillage,rt
+mt,mulch_till,tillage,rt
+nt,no_till,tillage,nt
